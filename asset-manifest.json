@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/adas-team-website/static/css/main.0aa5355c.chunk.css",
+    "main.js": "/adas-team-website/static/js/main.5cbad402.chunk.js",
+    "main.js.map": "/adas-team-website/static/js/main.5cbad402.chunk.js.map",
+    "runtime-main.js": "/adas-team-website/static/js/runtime-main.80461a6b.js",
+    "runtime-main.js.map": "/adas-team-website/static/js/runtime-main.80461a6b.js.map",
+    "static/js/2.e188853d.chunk.js": "/adas-team-website/static/js/2.e188853d.chunk.js",
+    "static/js/2.e188853d.chunk.js.map": "/adas-team-website/static/js/2.e188853d.chunk.js.map",
+    "static/js/3.cf64bd7a.chunk.js": "/adas-team-website/static/js/3.cf64bd7a.chunk.js",
+    "static/js/3.cf64bd7a.chunk.js.map": "/adas-team-website/static/js/3.cf64bd7a.chunk.js.map",
+    "index.html": "/adas-team-website/index.html",
+    "static/css/main.0aa5355c.chunk.css.map": "/adas-team-website/static/css/main.0aa5355c.chunk.css.map",
+    "static/js/2.e188853d.chunk.js.LICENSE.txt": "/adas-team-website/static/js/2.e188853d.chunk.js.LICENSE.txt",
+    "static/media/ada-home-bot.5838c72a.png": "/adas-team-website/static/media/ada-home-bot.5838c72a.png",
+    "static/media/ada_bot_hands_up.d0c149a0.png": "/adas-team-website/static/media/ada_bot_hands_up.d0c149a0.png",
+    "static/media/ada_bot_hat1.51d0fd8c.png": "/adas-team-website/static/media/ada_bot_hat1.51d0fd8c.png",
+    "static/media/ada_bot_scarf.d7392be1.png": "/adas-team-website/static/media/ada_bot_scarf.d7392be1.png",
+    "static/media/ada_bot_sleepy.187f62b4.png": "/adas-team-website/static/media/ada_bot_sleepy.187f62b4.png",
+    "static/media/eicon_head_1.7eefefa3.png": "/adas-team-website/static/media/eicon_head_1.7eefefa3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80461a6b.js",
+    "static/js/2.e188853d.chunk.js",
+    "static/css/main.0aa5355c.chunk.css",
+    "static/js/main.5cbad402.chunk.js"
+  ]
+}
